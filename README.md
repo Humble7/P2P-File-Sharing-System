@@ -30,13 +30,18 @@ Before running the program, ensure you have the following dependencies installed
 2. Run the program using the following command:
    a. `make run`
    b. enter `1` to launch the indexing server.
-3. Open another terminal and navigate to the project directory: `cd P2P-File-Sharing-System`
-4. Run the program using the following command:
+
+   ![step2](https://github.com/Humble7/P2P-File-Sharing-System/blob/main/src/step1.png)
+4. Open another terminal and navigate to the project directory: `cd P2P-File-Sharing-System`
+5. Run the program using the following command:
    a. `make run`
    b. enter `2` to launch the client 1.
    c. register file into server: `shared-file-center/dir1`
    d. set up port number: `1111`
    e. set up peer ID: `1`
+
+ ![step2](https://github.com/Humble7/P2P-File-Sharing-System/blob/main/src/step2.png)
+
 3. Open another terminal and navigate to the project directory: `cd P2P-File-Sharing-System`
 4. Run the program using the following command:
    a. `make run`
@@ -48,4 +53,21 @@ Before running the program, ensure you have the following dependencies installed
    g. enter the port number of the file server: `1111`
    h. enter the peer id of the file server: `1`
    i. 1_1.txt has been downloaded into shared-file-center/dir2
+
+ ![step2](https://github.com/Humble7/P2P-File-Sharing-System/blob/main/src/step3.png)
+
+  ![step2](https://github.com/Humble7/P2P-File-Sharing-System/blob/main/src/step4.png)
+
+![step2](https://github.com/Humble7/P2P-File-Sharing-System/blob/main/src/step5.png)
+
+![step2](https://github.com/Humble7/P2P-File-Sharing-System/blob/main/src/step6.png)
+![step2](https://github.com/Humble7/P2P-File-Sharing-System/blob/main/src/step7.png)
+![step2](https://github.com/Humble7/P2P-File-Sharing-System/blob/main/src/step8.png)
+![step2](https://github.com/Humble7/P2P-File-Sharing-System/blob/main/src/step9.png)
+![step2](https://github.com/Humble7/P2P-File-Sharing-System/blob/main/src/step10.png)
+
+
+
+
+
 
